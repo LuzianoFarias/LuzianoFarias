@@ -7,7 +7,7 @@
 
 Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia facilitamos essa conexão.
 
-## Entre em contato
+## 📨 Entre em contato
 
 <div>
 <a href = "mailto:luzianofarias23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,7 +15,7 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 </div>
 
 
-## Ferramentas e Tecnologias
+##  💻  Ferramentas e Tecnologias
 
 <div style="display: inline_block"><br>
   
