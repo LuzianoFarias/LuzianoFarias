@@ -38,5 +38,5 @@ Acredito que o conhecimento pode melhorar a vida das pessoas e com a tecnologia 
 <br>
 
 ![Luziano Farias GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzianoFarias&show_icons=true&theme=merko)
-![snake gif](https://github.com/LuzianoFarias/LuzianoFarias/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuzianoFarias/LuzianoFarias/blob/output/github-contribution-grid-snake.svg)
 
